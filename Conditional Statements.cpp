@@ -38,6 +38,7 @@ int main()
     }  
     return 0;
 }
+// You only have to write if-else ladder.
 
 string ltrim(const string &str) {
     string s(str);
